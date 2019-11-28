@@ -1,5 +1,6 @@
 # Links to download this coursses:
 
+---- Week 2
 
 / [Part 01 - week 2](http://cdn.gotoclass.ir/Courses/python/jadi/week2/1_variables_and_identifiers/variables_and_identifiers.m4v?)
 
@@ -17,7 +18,7 @@
 
 / [Part 08 - week 2](http://cdn.gotoclass.ir/Courses/python/jadi/week2/8_python_lists/python_lists.m4v?)
 
-----
+---- Week 3
 
 
 / [Part 09 - week 3](http://cdn.gotoclass.ir/Courses/python/jadi/week3/1_operators/operators.m4v?)
@@ -36,7 +37,7 @@
 
 / [Part 16 - week 3](http://cdn.gotoclass.ir/Courses/python/jadi/week3/8_elseif/elseif.m4v?)
 
-----
+---- Week 4
 
 
 / [Part 17 - week 4](http://cdn.gotoclass.ir/Courses/python/jadi/week4/1_while_loop/while_loop.m4v?)
@@ -53,7 +54,7 @@
 
 / [Part 23 - week 4](http://cdn.gotoclass.ir/Courses/python/jadi/week4/7_modules/modules.m4v?)
 
-----
+---- Week 5
 
 
 / [Part 24 - week 5](http://cdn.gotoclass.ir/Courses/python/jadi/week5/1_list_methods/list_methods.m4v?)
@@ -66,7 +67,7 @@
 
 / [Part 28 - week 5](http://cdn.gotoclass.ir/Courses/python/jadi/week5/5_slicing_with_defaults/slicing_with_defaults.m4v?)
 
-----
+---- Week 6
 
 
 / [Part 29 - week 6](http://cdn.gotoclass.ir/Courses/python/jadi/week6/1_strings/strings.m4v?)
@@ -79,7 +80,7 @@
 
 / [Part 33 - week 6](http://cdn.gotoclass.ir/Courses/python/jadi/week6/5_string_practice2/string_practice_2.m4v?)
 
-----
+---- Week 7
 
 
 / [Part 34 - week 7](http://cdn.gotoclass.ir/Courses/python/jadi/week7/1_multidimentional_lists/multidimentional_lists.m4v?)
@@ -88,7 +89,7 @@
 
 / [Part 36 - week 7](http://cdn.gotoclass.ir/Courses/python/jadi/week7/2_dictionary_methods/dictionary_methods.m4v?)
 
-----
+---- Week 8
 
 
 / [Part 37 - week 8](http://cdn.gotoclass.ir/Courses/python/jadi/week8/1_file_io/file_io.m4v?)
@@ -113,7 +114,7 @@
 
 / [Part 47 - week 8](http://cdn.gotoclass.ir/Courses/python/jadi/week8/11_formatting_fill2/formatting_fill2.m4v?)
 
-----
+---- Week 9
 
 
 / [Part 48 - week 9](http://cdn.gotoclass.ir/Courses/python/jadi/week9/1_name_spaces/name_spaces.m4v?)
@@ -125,3 +126,9 @@
 / [Part 51 - week 9](http://cdn.gotoclass.ir/Courses/python/jadi/week9/4_errors_and_exceptions/errors_and_exceptions.m4v?)
 
 / [Part 52 - week 9](http://cdn.gotoclass.ir/Courses/python/jadi/week9/5_erorr_handling/erorr_handling.m4v?)
+
+
+---
+## For Guide or need help, Contact me:
+- [Email](mailto:mkarimi21@hotmail.com), [LinkedIn](https://www.linkedin.com/in/mkarimi21/), [Telegram](https://telegram.me/mkarimi21). 
+     
