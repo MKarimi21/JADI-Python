@@ -18,3 +18,12 @@ JADI Starter and Professional Python coursses
 هنوز این دوره آپلود مجزا نشده است. بزودی این بخش هم گذاشته خواهد شد
 
 
+
+
+
+
+---
+## For Guide or need help, Contact me:
+- [Email](mailto:mkarimi21@hotmail.com), [LinkedIn](https://www.linkedin.com/in/mkarimi21/), [Telegram](https://telegram.me/mkarimi21). 
+     
+
