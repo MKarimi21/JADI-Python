@@ -1,4 +1,4 @@
-``` python3
+# ``` python3
 # Sequence and Operators in Python v3
 
 a = [26, "alireza", "Abolfazl", 526.25, -3, 6]
