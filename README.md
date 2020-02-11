@@ -1,5 +1,5 @@
 <h1 align="center">JADI-Python</h1>
-JADI Starter and Professional Python coursses
+<p align="center">JADI Starter and Professional Python coursses</p>
 <p dir="rtl">
 برای دسترسی به جادی هم می توانید وارد وب ایشون شوید:
 </p>
