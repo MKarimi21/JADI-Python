@@ -6,14 +6,15 @@ JADI Starter and Professional Python coursses
 
 # [Jadi](www.jadi.net)
 
-<p dir="rtl">
-# دوره مقدماتی پایتون جادی
-</p>
+<h2 dir="rtl">
+دوره مقدماتی پایتون جادی
+</h2>
 <p dir="rtl">
 دوره مقدماتی مناسب برای هر کسی که نیاز به یادگیری پایتون با شیوه ای عالی در تدریس نیاز دارد، بسیار مناسب و پیشنهاد می شود.
 
 برای دسترسی وارد فولدر استارتر شوید:
 </p>
+
 ## [Starter Folder](https://github.com/MKarimi21/JADI-Python/tree/master/Starter)
 
 
