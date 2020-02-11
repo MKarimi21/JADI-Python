@@ -1,4 +1,4 @@
-# JADI-Python
+<h1 dir="center">JADI-Python</h1>
 JADI Starter and Professional Python coursses
 <p dir="rtl">
 برای دسترسی به جادی هم می توانید وارد وب ایشون شوید:
