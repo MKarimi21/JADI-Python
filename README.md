@@ -1,5 +1,6 @@
 <h1 align="center">JADI-Python</h1>
 <p align="center">JADI Starter and Professional Python coursses</p>
+<a align="center" href="https://github.com/MKarimi21/JADI-Python/blob/master/LICENSE" target="_blank"><img src="https://img.shields.io/badge/Licence-MIT-blue" target="_blank"></a>
 
 <p dir="rtl">
 برای دسترسی به جادی هم می توانید وارد وب ایشون شوید:
